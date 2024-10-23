@@ -1,0 +1,1001 @@
+Current_date, Sale_id,Product_id,Product_name,Product_price
+2024-10-23,charger,500,2,P005,charger,500
+2024-10-23,wireless headphone,100,3,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,4,P001,wireless headphone,100
+2024-10-23,Android phone,1000,5,P006,Android phone,1000
+2024-10-23,Android phone,1000,6,P006,Android phone,1000
+2024-10-23,speakers,1000,7,P003,speakers,1000
+2024-10-23,tab,1000,8,P004,tab,1000
+2024-10-23,iphone,9000,9,P007,iphone,9000
+2024-10-23,charger,500,10,P005,charger,500
+2024-10-23,Android phone,1000,11,P006,Android phone,1000
+2024-10-23,tab,1000,12,P004,tab,1000
+2024-10-23,Android phone,1000,13,P006,Android phone,1000
+2024-10-23,iphone,9000,14,P007,iphone,9000
+2024-10-23,tab,1000,15,P004,tab,1000
+2024-10-23,charger,500,16,P005,charger,500
+2024-10-23,game_box,1000,17,P010,game_box,1000
+2024-10-23,game_box,1000,18,P010,game_box,1000
+2024-10-23,tab,1000,19,P004,tab,1000
+2024-10-23,clock,100,20,P009,clock,100
+2024-10-23,wireless headphone,100,21,P001,wireless headphone,100
+2024-10-23,watch,100,22,P008,watch,100
+2024-10-23,iphone,9000,23,P007,iphone,9000
+2024-10-23,iphone,9000,24,P007,iphone,9000
+2024-10-23,speakers,1000,25,P003,speakers,1000
+2024-10-23,iphone,9000,26,P007,iphone,9000
+2024-10-23,speakers,1000,27,P003,speakers,1000
+2024-10-23,computers,10000,28,P002,computers,10000
+2024-10-23,wireless headphone,100,29,P001,wireless headphone,100
+2024-10-23,tab,1000,30,P004,tab,1000
+2024-10-23,Android phone,1000,31,P006,Android phone,1000
+2024-10-23,computers,10000,32,P002,computers,10000
+2024-10-23,speakers,1000,33,P003,speakers,1000
+2024-10-23,watch,100,34,P008,watch,100
+2024-10-23,tab,1000,35,P004,tab,1000
+2024-10-23,clock,100,36,P009,clock,100
+2024-10-23,wireless headphone,100,37,P001,wireless headphone,100
+2024-10-23,speakers,1000,38,P003,speakers,1000
+2024-10-23,Android phone,1000,39,P006,Android phone,1000
+2024-10-23,watch,100,40,P008,watch,100
+2024-10-23,tab,1000,41,P004,tab,1000
+2024-10-23,clock,100,42,P009,clock,100
+2024-10-23,watch,100,43,P008,watch,100
+2024-10-23,Android phone,1000,44,P006,Android phone,1000
+2024-10-23,charger,500,45,P005,charger,500
+2024-10-23,charger,500,46,P005,charger,500
+2024-10-23,wireless headphone,100,47,P001,wireless headphone,100
+2024-10-23,computers,10000,48,P002,computers,10000
+2024-10-23,charger,500,49,P005,charger,500
+2024-10-23,computers,10000,50,P002,computers,10000
+2024-10-23,clock,100,51,P009,clock,100
+2024-10-23,computers,10000,52,P002,computers,10000
+2024-10-23,wireless headphone,100,53,P001,wireless headphone,100
+2024-10-23,Android phone,1000,54,P006,Android phone,1000
+2024-10-23,watch,100,55,P008,watch,100
+2024-10-23,Android phone,1000,56,P006,Android phone,1000
+2024-10-23,game_box,1000,57,P010,game_box,1000
+2024-10-23,computers,10000,58,P002,computers,10000
+2024-10-23,watch,100,59,P008,watch,100
+2024-10-23,computers,10000,60,P002,computers,10000
+2024-10-23,wireless headphone,100,61,P001,wireless headphone,100
+2024-10-23,watch,100,62,P008,watch,100
+2024-10-23,watch,100,63,P008,watch,100
+2024-10-23,Android phone,1000,64,P006,Android phone,1000
+2024-10-23,Android phone,1000,65,P006,Android phone,1000
+2024-10-23,computers,10000,66,P002,computers,10000
+2024-10-23,tab,1000,67,P004,tab,1000
+2024-10-23,charger,500,68,P005,charger,500
+2024-10-23,wireless headphone,100,69,P001,wireless headphone,100
+2024-10-23,game_box,1000,70,P010,game_box,1000
+2024-10-23,wireless headphone,100,71,P001,wireless headphone,100
+2024-10-23,speakers,1000,72,P003,speakers,1000
+2024-10-23,wireless headphone,100,73,P001,wireless headphone,100
+2024-10-23,speakers,1000,74,P003,speakers,1000
+2024-10-23,game_box,1000,75,P010,game_box,1000
+2024-10-23,watch,100,76,P008,watch,100
+2024-10-23,tab,1000,77,P004,tab,1000
+2024-10-23,Android phone,1000,78,P006,Android phone,1000
+2024-10-23,charger,500,79,P005,charger,500
+2024-10-23,wireless headphone,100,80,P001,wireless headphone,100
+2024-10-23,clock,100,81,P009,clock,100
+2024-10-23,clock,100,82,P009,clock,100
+2024-10-23,game_box,1000,83,P010,game_box,1000
+2024-10-23,watch,100,84,P008,watch,100
+2024-10-23,Android phone,1000,85,P006,Android phone,1000
+2024-10-23,tab,1000,86,P004,tab,1000
+2024-10-23,computers,10000,87,P002,computers,10000
+2024-10-23,wireless headphone,100,88,P001,wireless headphone,100
+2024-10-23,speakers,1000,89,P003,speakers,1000
+2024-10-23,speakers,1000,90,P003,speakers,1000
+2024-10-23,wireless headphone,100,91,P001,wireless headphone,100
+2024-10-23,tab,1000,92,P004,tab,1000
+2024-10-23,charger,500,93,P005,charger,500
+2024-10-23,game_box,1000,94,P010,game_box,1000
+2024-10-23,wireless headphone,100,95,P001,wireless headphone,100
+2024-10-23,Android phone,1000,96,P006,Android phone,1000
+2024-10-23,Android phone,1000,97,P006,Android phone,1000
+2024-10-23,computers,10000,98,P002,computers,10000
+2024-10-23,computers,10000,99,P002,computers,10000
+2024-10-23,game_box,1000,100,P010,game_box,1000
+2024-10-23,tab,1000,101,P004,tab,1000
+2024-10-23,charger,500,102,P005,charger,500
+2024-10-23,game_box,1000,103,P010,game_box,1000
+2024-10-23,wireless headphone,100,104,P001,wireless headphone,100
+2024-10-23,watch,100,105,P008,watch,100
+2024-10-23,speakers,1000,106,P003,speakers,1000
+2024-10-23,watch,100,107,P008,watch,100
+2024-10-23,wireless headphone,100,108,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,109,P001,wireless headphone,100
+2024-10-23,tab,1000,110,P004,tab,1000
+2024-10-23,wireless headphone,100,111,P001,wireless headphone,100
+2024-10-23,speakers,1000,112,P003,speakers,1000
+2024-10-23,tab,1000,113,P004,tab,1000
+2024-10-23,tab,1000,114,P004,tab,1000
+2024-10-23,speakers,1000,115,P003,speakers,1000
+2024-10-23,speakers,1000,116,P003,speakers,1000
+2024-10-23,tab,1000,117,P004,tab,1000
+2024-10-23,watch,100,118,P008,watch,100
+2024-10-23,watch,100,119,P008,watch,100
+2024-10-23,clock,100,120,P009,clock,100
+2024-10-23,wireless headphone,100,121,P001,wireless headphone,100
+2024-10-23,Android phone,1000,122,P006,Android phone,1000
+2024-10-23,wireless headphone,100,123,P001,wireless headphone,100
+2024-10-23,clock,100,124,P009,clock,100
+2024-10-23,watch,100,125,P008,watch,100
+2024-10-23,game_box,1000,126,P010,game_box,1000
+2024-10-23,wireless headphone,100,127,P001,wireless headphone,100
+2024-10-23,iphone,9000,128,P007,iphone,9000
+2024-10-23,wireless headphone,100,129,P001,wireless headphone,100
+2024-10-23,computers,10000,130,P002,computers,10000
+2024-10-23,clock,100,131,P009,clock,100
+2024-10-23,iphone,9000,132,P007,iphone,9000
+2024-10-23,speakers,1000,133,P003,speakers,1000
+2024-10-23,wireless headphone,100,134,P001,wireless headphone,100
+2024-10-23,charger,500,135,P005,charger,500
+2024-10-23,Android phone,1000,136,P006,Android phone,1000
+2024-10-23,Android phone,1000,137,P006,Android phone,1000
+2024-10-23,speakers,1000,138,P003,speakers,1000
+2024-10-23,Android phone,1000,139,P006,Android phone,1000
+2024-10-23,computers,10000,140,P002,computers,10000
+2024-10-23,wireless headphone,100,141,P001,wireless headphone,100
+2024-10-23,game_box,1000,142,P010,game_box,1000
+2024-10-23,game_box,1000,143,P010,game_box,1000
+2024-10-23,speakers,1000,144,P003,speakers,1000
+2024-10-23,speakers,1000,145,P003,speakers,1000
+2024-10-23,game_box,1000,146,P010,game_box,1000
+2024-10-23,wireless headphone,100,147,P001,wireless headphone,100
+2024-10-23,tab,1000,148,P004,tab,1000
+2024-10-23,computers,10000,149,P002,computers,10000
+2024-10-23,watch,100,150,P008,watch,100
+2024-10-23,wireless headphone,100,151,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,152,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,153,P001,wireless headphone,100
+2024-10-23,speakers,1000,154,P003,speakers,1000
+2024-10-23,wireless headphone,100,155,P001,wireless headphone,100
+2024-10-23,Android phone,1000,156,P006,Android phone,1000
+2024-10-23,game_box,1000,157,P010,game_box,1000
+2024-10-23,watch,100,158,P008,watch,100
+2024-10-23,computers,10000,159,P002,computers,10000
+2024-10-23,watch,100,160,P008,watch,100
+2024-10-23,speakers,1000,161,P003,speakers,1000
+2024-10-23,watch,100,162,P008,watch,100
+2024-10-23,charger,500,163,P005,charger,500
+2024-10-23,tab,1000,164,P004,tab,1000
+2024-10-23,speakers,1000,165,P003,speakers,1000
+2024-10-23,charger,500,166,P005,charger,500
+2024-10-23,iphone,9000,167,P007,iphone,9000
+2024-10-23,game_box,1000,168,P010,game_box,1000
+2024-10-23,tab,1000,169,P004,tab,1000
+2024-10-23,Android phone,1000,170,P006,Android phone,1000
+2024-10-23,watch,100,171,P008,watch,100
+2024-10-23,Android phone,1000,172,P006,Android phone,1000
+2024-10-23,charger,500,173,P005,charger,500
+2024-10-23,clock,100,174,P009,clock,100
+2024-10-23,iphone,9000,175,P007,iphone,9000
+2024-10-23,wireless headphone,100,176,P001,wireless headphone,100
+2024-10-23,watch,100,177,P008,watch,100
+2024-10-23,clock,100,178,P009,clock,100
+2024-10-23,wireless headphone,100,179,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,180,P001,wireless headphone,100
+2024-10-23,speakers,1000,181,P003,speakers,1000
+2024-10-23,Android phone,1000,182,P006,Android phone,1000
+2024-10-23,Android phone,1000,183,P006,Android phone,1000
+2024-10-23,wireless headphone,100,184,P001,wireless headphone,100
+2024-10-23,tab,1000,185,P004,tab,1000
+2024-10-23,watch,100,186,P008,watch,100
+2024-10-23,wireless headphone,100,187,P001,wireless headphone,100
+2024-10-23,iphone,9000,188,P007,iphone,9000
+2024-10-23,tab,1000,189,P004,tab,1000
+2024-10-23,wireless headphone,100,190,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,191,P001,wireless headphone,100
+2024-10-23,Android phone,1000,192,P006,Android phone,1000
+2024-10-23,clock,100,193,P009,clock,100
+2024-10-23,tab,1000,194,P004,tab,1000
+2024-10-23,tab,1000,195,P004,tab,1000
+2024-10-23,watch,100,196,P008,watch,100
+2024-10-23,computers,10000,197,P002,computers,10000
+2024-10-23,Android phone,1000,198,P006,Android phone,1000
+2024-10-23,watch,100,199,P008,watch,100
+2024-10-23,Android phone,1000,200,P006,Android phone,1000
+2024-10-23,speakers,1000,201,P003,speakers,1000
+2024-10-23,wireless headphone,100,202,P001,wireless headphone,100
+2024-10-23,tab,1000,203,P004,tab,1000
+2024-10-23,tab,1000,204,P004,tab,1000
+2024-10-23,computers,10000,205,P002,computers,10000
+2024-10-23,Android phone,1000,206,P006,Android phone,1000
+2024-10-23,tab,1000,207,P004,tab,1000
+2024-10-23,wireless headphone,100,208,P001,wireless headphone,100
+2024-10-23,charger,500,209,P005,charger,500
+2024-10-23,computers,10000,210,P002,computers,10000
+2024-10-23,Android phone,1000,211,P006,Android phone,1000
+2024-10-23,speakers,1000,212,P003,speakers,1000
+2024-10-23,wireless headphone,100,213,P001,wireless headphone,100
+2024-10-23,speakers,1000,214,P003,speakers,1000
+2024-10-23,speakers,1000,215,P003,speakers,1000
+2024-10-23,clock,100,216,P009,clock,100
+2024-10-23,watch,100,217,P008,watch,100
+2024-10-23,game_box,1000,218,P010,game_box,1000
+2024-10-23,Android phone,1000,219,P006,Android phone,1000
+2024-10-23,charger,500,220,P005,charger,500
+2024-10-23,game_box,1000,221,P010,game_box,1000
+2024-10-23,computers,10000,222,P002,computers,10000
+2024-10-23,charger,500,223,P005,charger,500
+2024-10-23,game_box,1000,224,P010,game_box,1000
+2024-10-23,tab,1000,225,P004,tab,1000
+2024-10-23,computers,10000,226,P002,computers,10000
+2024-10-23,iphone,9000,227,P007,iphone,9000
+2024-10-23,game_box,1000,228,P010,game_box,1000
+2024-10-23,clock,100,229,P009,clock,100
+2024-10-23,clock,100,230,P009,clock,100
+2024-10-23,tab,1000,231,P004,tab,1000
+2024-10-23,watch,100,232,P008,watch,100
+2024-10-23,tab,1000,233,P004,tab,1000
+2024-10-23,charger,500,234,P005,charger,500
+2024-10-23,wireless headphone,100,235,P001,wireless headphone,100
+2024-10-23,iphone,9000,236,P007,iphone,9000
+2024-10-23,Android phone,1000,237,P006,Android phone,1000
+2024-10-23,wireless headphone,100,238,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,239,P001,wireless headphone,100
+2024-10-23,Android phone,1000,240,P006,Android phone,1000
+2024-10-23,speakers,1000,241,P003,speakers,1000
+2024-10-23,charger,500,242,P005,charger,500
+2024-10-23,speakers,1000,243,P003,speakers,1000
+2024-10-23,Android phone,1000,244,P006,Android phone,1000
+2024-10-23,Android phone,1000,245,P006,Android phone,1000
+2024-10-23,speakers,1000,246,P003,speakers,1000
+2024-10-23,computers,10000,247,P002,computers,10000
+2024-10-23,Android phone,1000,248,P006,Android phone,1000
+2024-10-23,clock,100,249,P009,clock,100
+2024-10-23,wireless headphone,100,250,P001,wireless headphone,100
+2024-10-23,tab,1000,251,P004,tab,1000
+2024-10-23,clock,100,252,P009,clock,100
+2024-10-23,wireless headphone,100,253,P001,wireless headphone,100
+2024-10-23,watch,100,254,P008,watch,100
+2024-10-23,watch,100,255,P008,watch,100
+2024-10-23,computers,10000,256,P002,computers,10000
+2024-10-23,watch,100,257,P008,watch,100
+2024-10-23,computers,10000,258,P002,computers,10000
+2024-10-23,watch,100,259,P008,watch,100
+2024-10-23,speakers,1000,260,P003,speakers,1000
+2024-10-23,iphone,9000,261,P007,iphone,9000
+2024-10-23,speakers,1000,262,P003,speakers,1000
+2024-10-23,wireless headphone,100,263,P001,wireless headphone,100
+2024-10-23,computers,10000,264,P002,computers,10000
+2024-10-23,watch,100,265,P008,watch,100
+2024-10-23,game_box,1000,266,P010,game_box,1000
+2024-10-23,watch,100,267,P008,watch,100
+2024-10-23,speakers,1000,268,P003,speakers,1000
+2024-10-23,speakers,1000,269,P003,speakers,1000
+2024-10-23,wireless headphone,100,270,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,271,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,272,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,273,P001,wireless headphone,100
+2024-10-23,Android phone,1000,274,P006,Android phone,1000
+2024-10-23,wireless headphone,100,275,P001,wireless headphone,100
+2024-10-23,speakers,1000,276,P003,speakers,1000
+2024-10-23,game_box,1000,277,P010,game_box,1000
+2024-10-23,wireless headphone,100,278,P001,wireless headphone,100
+2024-10-23,tab,1000,279,P004,tab,1000
+2024-10-23,speakers,1000,280,P003,speakers,1000
+2024-10-23,tab,1000,281,P004,tab,1000
+2024-10-23,computers,10000,282,P002,computers,10000
+2024-10-23,speakers,1000,283,P003,speakers,1000
+2024-10-23,watch,100,284,P008,watch,100
+2024-10-23,wireless headphone,100,285,P001,wireless headphone,100
+2024-10-23,tab,1000,286,P004,tab,1000
+2024-10-23,iphone,9000,287,P007,iphone,9000
+2024-10-23,game_box,1000,288,P010,game_box,1000
+2024-10-23,iphone,9000,289,P007,iphone,9000
+2024-10-23,wireless headphone,100,290,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,291,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,292,P001,wireless headphone,100
+2024-10-23,speakers,1000,293,P003,speakers,1000
+2024-10-23,tab,1000,294,P004,tab,1000
+2024-10-23,game_box,1000,295,P010,game_box,1000
+2024-10-23,speakers,1000,296,P003,speakers,1000
+2024-10-23,wireless headphone,100,297,P001,wireless headphone,100
+2024-10-23,speakers,1000,298,P003,speakers,1000
+2024-10-23,speakers,1000,299,P003,speakers,1000
+2024-10-23,wireless headphone,100,300,P001,wireless headphone,100
+2024-10-23,watch,100,301,P008,watch,100
+2024-10-23,clock,100,302,P009,clock,100
+2024-10-23,Android phone,1000,303,P006,Android phone,1000
+2024-10-23,iphone,9000,304,P007,iphone,9000
+2024-10-23,watch,100,305,P008,watch,100
+2024-10-23,game_box,1000,306,P010,game_box,1000
+2024-10-23,clock,100,307,P009,clock,100
+2024-10-23,speakers,1000,308,P003,speakers,1000
+2024-10-23,clock,100,309,P009,clock,100
+2024-10-23,tab,1000,310,P004,tab,1000
+2024-10-23,Android phone,1000,311,P006,Android phone,1000
+2024-10-23,speakers,1000,312,P003,speakers,1000
+2024-10-23,iphone,9000,313,P007,iphone,9000
+2024-10-23,wireless headphone,100,314,P001,wireless headphone,100
+2024-10-23,speakers,1000,315,P003,speakers,1000
+2024-10-23,speakers,1000,316,P003,speakers,1000
+2024-10-23,computers,10000,317,P002,computers,10000
+2024-10-23,wireless headphone,100,318,P001,wireless headphone,100
+2024-10-23,watch,100,319,P008,watch,100
+2024-10-23,speakers,1000,320,P003,speakers,1000
+2024-10-23,Android phone,1000,321,P006,Android phone,1000
+2024-10-23,computers,10000,322,P002,computers,10000
+2024-10-23,speakers,1000,323,P003,speakers,1000
+2024-10-23,computers,10000,324,P002,computers,10000
+2024-10-23,wireless headphone,100,325,P001,wireless headphone,100
+2024-10-23,game_box,1000,326,P010,game_box,1000
+2024-10-23,speakers,1000,327,P003,speakers,1000
+2024-10-23,computers,10000,328,P002,computers,10000
+2024-10-23,watch,100,329,P008,watch,100
+2024-10-23,Android phone,1000,330,P006,Android phone,1000
+2024-10-23,tab,1000,331,P004,tab,1000
+2024-10-23,wireless headphone,100,332,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,333,P001,wireless headphone,100
+2024-10-23,watch,100,334,P008,watch,100
+2024-10-23,clock,100,335,P009,clock,100
+2024-10-23,Android phone,1000,336,P006,Android phone,1000
+2024-10-23,Android phone,1000,337,P006,Android phone,1000
+2024-10-23,game_box,1000,338,P010,game_box,1000
+2024-10-23,iphone,9000,339,P007,iphone,9000
+2024-10-23,tab,1000,340,P004,tab,1000
+2024-10-23,watch,100,341,P008,watch,100
+2024-10-23,game_box,1000,342,P010,game_box,1000
+2024-10-23,computers,10000,343,P002,computers,10000
+2024-10-23,game_box,1000,344,P010,game_box,1000
+2024-10-23,iphone,9000,345,P007,iphone,9000
+2024-10-23,game_box,1000,346,P010,game_box,1000
+2024-10-23,speakers,1000,347,P003,speakers,1000
+2024-10-23,computers,10000,348,P002,computers,10000
+2024-10-23,charger,500,349,P005,charger,500
+2024-10-23,game_box,1000,350,P010,game_box,1000
+2024-10-23,wireless headphone,100,351,P001,wireless headphone,100
+2024-10-23,Android phone,1000,352,P006,Android phone,1000
+2024-10-23,wireless headphone,100,353,P001,wireless headphone,100
+2024-10-23,watch,100,354,P008,watch,100
+2024-10-23,wireless headphone,100,355,P001,wireless headphone,100
+2024-10-23,Android phone,1000,356,P006,Android phone,1000
+2024-10-23,watch,100,357,P008,watch,100
+2024-10-23,Android phone,1000,358,P006,Android phone,1000
+2024-10-23,computers,10000,359,P002,computers,10000
+2024-10-23,watch,100,360,P008,watch,100
+2024-10-23,computers,10000,361,P002,computers,10000
+2024-10-23,watch,100,362,P008,watch,100
+2024-10-23,Android phone,1000,363,P006,Android phone,1000
+2024-10-23,tab,1000,364,P004,tab,1000
+2024-10-23,watch,100,365,P008,watch,100
+2024-10-23,tab,1000,366,P004,tab,1000
+2024-10-23,Android phone,1000,367,P006,Android phone,1000
+2024-10-23,wireless headphone,100,368,P001,wireless headphone,100
+2024-10-23,Android phone,1000,369,P006,Android phone,1000
+2024-10-23,tab,1000,370,P004,tab,1000
+2024-10-23,wireless headphone,100,371,P001,wireless headphone,100
+2024-10-23,tab,1000,372,P004,tab,1000
+2024-10-23,watch,100,373,P008,watch,100
+2024-10-23,charger,500,374,P005,charger,500
+2024-10-23,computers,10000,375,P002,computers,10000
+2024-10-23,clock,100,376,P009,clock,100
+2024-10-23,game_box,1000,377,P010,game_box,1000
+2024-10-23,tab,1000,378,P004,tab,1000
+2024-10-23,tab,1000,379,P004,tab,1000
+2024-10-23,wireless headphone,100,380,P001,wireless headphone,100
+2024-10-23,Android phone,1000,381,P006,Android phone,1000
+2024-10-23,charger,500,382,P005,charger,500
+2024-10-23,wireless headphone,100,383,P001,wireless headphone,100
+2024-10-23,Android phone,1000,384,P006,Android phone,1000
+2024-10-23,speakers,1000,385,P003,speakers,1000
+2024-10-23,watch,100,386,P008,watch,100
+2024-10-23,wireless headphone,100,387,P001,wireless headphone,100
+2024-10-23,Android phone,1000,388,P006,Android phone,1000
+2024-10-23,speakers,1000,389,P003,speakers,1000
+2024-10-23,wireless headphone,100,390,P001,wireless headphone,100
+2024-10-23,computers,10000,391,P002,computers,10000
+2024-10-23,iphone,9000,392,P007,iphone,9000
+2024-10-23,Android phone,1000,393,P006,Android phone,1000
+2024-10-23,clock,100,394,P009,clock,100
+2024-10-23,wireless headphone,100,395,P001,wireless headphone,100
+2024-10-23,iphone,9000,396,P007,iphone,9000
+2024-10-23,tab,1000,397,P004,tab,1000
+2024-10-23,tab,1000,398,P004,tab,1000
+2024-10-23,wireless headphone,100,399,P001,wireless headphone,100
+2024-10-23,watch,100,400,P008,watch,100
+2024-10-23,Android phone,1000,401,P006,Android phone,1000
+2024-10-23,speakers,1000,402,P003,speakers,1000
+2024-10-23,tab,1000,403,P004,tab,1000
+2024-10-23,game_box,1000,404,P010,game_box,1000
+2024-10-23,computers,10000,405,P002,computers,10000
+2024-10-23,wireless headphone,100,406,P001,wireless headphone,100
+2024-10-23,watch,100,407,P008,watch,100
+2024-10-23,game_box,1000,408,P010,game_box,1000
+2024-10-23,tab,1000,409,P004,tab,1000
+2024-10-23,wireless headphone,100,410,P001,wireless headphone,100
+2024-10-23,tab,1000,411,P004,tab,1000
+2024-10-23,Android phone,1000,412,P006,Android phone,1000
+2024-10-23,computers,10000,413,P002,computers,10000
+2024-10-23,iphone,9000,414,P007,iphone,9000
+2024-10-23,speakers,1000,415,P003,speakers,1000
+2024-10-23,speakers,1000,416,P003,speakers,1000
+2024-10-23,tab,1000,417,P004,tab,1000
+2024-10-23,tab,1000,418,P004,tab,1000
+2024-10-23,game_box,1000,419,P010,game_box,1000
+2024-10-23,game_box,1000,420,P010,game_box,1000
+2024-10-23,tab,1000,421,P004,tab,1000
+2024-10-23,wireless headphone,100,422,P001,wireless headphone,100
+2024-10-23,computers,10000,423,P002,computers,10000
+2024-10-23,wireless headphone,100,424,P001,wireless headphone,100
+2024-10-23,game_box,1000,425,P010,game_box,1000
+2024-10-23,iphone,9000,426,P007,iphone,9000
+2024-10-23,watch,100,427,P008,watch,100
+2024-10-23,Android phone,1000,428,P006,Android phone,1000
+2024-10-23,charger,500,429,P005,charger,500
+2024-10-23,speakers,1000,430,P003,speakers,1000
+2024-10-23,wireless headphone,100,431,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,432,P001,wireless headphone,100
+2024-10-23,clock,100,433,P009,clock,100
+2024-10-23,charger,500,434,P005,charger,500
+2024-10-23,Android phone,1000,435,P006,Android phone,1000
+2024-10-23,wireless headphone,100,436,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,437,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,438,P001,wireless headphone,100
+2024-10-23,speakers,1000,439,P003,speakers,1000
+2024-10-23,wireless headphone,100,440,P001,wireless headphone,100
+2024-10-23,tab,1000,441,P004,tab,1000
+2024-10-23,speakers,1000,442,P003,speakers,1000
+2024-10-23,tab,1000,443,P004,tab,1000
+2024-10-23,wireless headphone,100,444,P001,wireless headphone,100
+2024-10-23,computers,10000,445,P002,computers,10000
+2024-10-23,speakers,1000,446,P003,speakers,1000
+2024-10-23,Android phone,1000,447,P006,Android phone,1000
+2024-10-23,speakers,1000,448,P003,speakers,1000
+2024-10-23,wireless headphone,100,449,P001,wireless headphone,100
+2024-10-23,tab,1000,450,P004,tab,1000
+2024-10-23,wireless headphone,100,451,P001,wireless headphone,100
+2024-10-23,Android phone,1000,452,P006,Android phone,1000
+2024-10-23,speakers,1000,453,P003,speakers,1000
+2024-10-23,speakers,1000,454,P003,speakers,1000
+2024-10-23,wireless headphone,100,455,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,456,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,457,P001,wireless headphone,100
+2024-10-23,tab,1000,458,P004,tab,1000
+2024-10-23,watch,100,459,P008,watch,100
+2024-10-23,wireless headphone,100,460,P001,wireless headphone,100
+2024-10-23,speakers,1000,461,P003,speakers,1000
+2024-10-23,clock,100,462,P009,clock,100
+2024-10-23,Android phone,1000,463,P006,Android phone,1000
+2024-10-23,game_box,1000,464,P010,game_box,1000
+2024-10-23,game_box,1000,465,P010,game_box,1000
+2024-10-23,tab,1000,466,P004,tab,1000
+2024-10-23,Android phone,1000,467,P006,Android phone,1000
+2024-10-23,Android phone,1000,468,P006,Android phone,1000
+2024-10-23,wireless headphone,100,469,P001,wireless headphone,100
+2024-10-23,tab,1000,470,P004,tab,1000
+2024-10-23,watch,100,471,P008,watch,100
+2024-10-23,wireless headphone,100,472,P001,wireless headphone,100
+2024-10-23,Android phone,1000,473,P006,Android phone,1000
+2024-10-23,Android phone,1000,474,P006,Android phone,1000
+2024-10-23,watch,100,475,P008,watch,100
+2024-10-23,wireless headphone,100,476,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,477,P001,wireless headphone,100
+2024-10-23,computers,10000,478,P002,computers,10000
+2024-10-23,wireless headphone,100,479,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,480,P001,wireless headphone,100
+2024-10-23,watch,100,481,P008,watch,100
+2024-10-23,game_box,1000,482,P010,game_box,1000
+2024-10-23,wireless headphone,100,483,P001,wireless headphone,100
+2024-10-23,watch,100,484,P008,watch,100
+2024-10-23,game_box,1000,485,P010,game_box,1000
+2024-10-23,game_box,1000,486,P010,game_box,1000
+2024-10-23,charger,500,487,P005,charger,500
+2024-10-23,watch,100,488,P008,watch,100
+2024-10-23,tab,1000,489,P004,tab,1000
+2024-10-23,speakers,1000,490,P003,speakers,1000
+2024-10-23,tab,1000,491,P004,tab,1000
+2024-10-23,charger,500,492,P005,charger,500
+2024-10-23,tab,1000,493,P004,tab,1000
+2024-10-23,clock,100,494,P009,clock,100
+2024-10-23,Android phone,1000,495,P006,Android phone,1000
+2024-10-23,iphone,9000,496,P007,iphone,9000
+2024-10-23,clock,100,497,P009,clock,100
+2024-10-23,tab,1000,498,P004,tab,1000
+2024-10-23,Android phone,1000,499,P006,Android phone,1000
+2024-10-23,wireless headphone,100,500,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,501,P001,wireless headphone,100
+2024-10-23,Android phone,1000,502,P006,Android phone,1000
+2024-10-23,computers,10000,503,P002,computers,10000
+2024-10-23,tab,1000,504,P004,tab,1000
+2024-10-23,wireless headphone,100,505,P001,wireless headphone,100
+2024-10-23,tab,1000,506,P004,tab,1000
+2024-10-23,game_box,1000,507,P010,game_box,1000
+2024-10-23,speakers,1000,508,P003,speakers,1000
+2024-10-23,wireless headphone,100,509,P001,wireless headphone,100
+2024-10-23,Android phone,1000,510,P006,Android phone,1000
+2024-10-23,tab,1000,511,P004,tab,1000
+2024-10-23,clock,100,512,P009,clock,100
+2024-10-23,tab,1000,513,P004,tab,1000
+2024-10-23,Android phone,1000,514,P006,Android phone,1000
+2024-10-23,game_box,1000,515,P010,game_box,1000
+2024-10-23,wireless headphone,100,516,P001,wireless headphone,100
+2024-10-23,Android phone,1000,517,P006,Android phone,1000
+2024-10-23,game_box,1000,518,P010,game_box,1000
+2024-10-23,Android phone,1000,519,P006,Android phone,1000
+2024-10-23,Android phone,1000,520,P006,Android phone,1000
+2024-10-23,wireless headphone,100,521,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,522,P001,wireless headphone,100
+2024-10-23,speakers,1000,523,P003,speakers,1000
+2024-10-23,computers,10000,524,P002,computers,10000
+2024-10-23,wireless headphone,100,525,P001,wireless headphone,100
+2024-10-23,speakers,1000,526,P003,speakers,1000
+2024-10-23,speakers,1000,527,P003,speakers,1000
+2024-10-23,Android phone,1000,528,P006,Android phone,1000
+2024-10-23,wireless headphone,100,529,P001,wireless headphone,100
+2024-10-23,Android phone,1000,530,P006,Android phone,1000
+2024-10-23,watch,100,531,P008,watch,100
+2024-10-23,game_box,1000,532,P010,game_box,1000
+2024-10-23,tab,1000,533,P004,tab,1000
+2024-10-23,speakers,1000,534,P003,speakers,1000
+2024-10-23,wireless headphone,100,535,P001,wireless headphone,100
+2024-10-23,watch,100,536,P008,watch,100
+2024-10-23,tab,1000,537,P004,tab,1000
+2024-10-23,Android phone,1000,538,P006,Android phone,1000
+2024-10-23,wireless headphone,100,539,P001,wireless headphone,100
+2024-10-23,speakers,1000,540,P003,speakers,1000
+2024-10-23,computers,10000,541,P002,computers,10000
+2024-10-23,wireless headphone,100,542,P001,wireless headphone,100
+2024-10-23,game_box,1000,543,P010,game_box,1000
+2024-10-23,computers,10000,544,P002,computers,10000
+2024-10-23,Android phone,1000,545,P006,Android phone,1000
+2024-10-23,computers,10000,546,P002,computers,10000
+2024-10-23,watch,100,547,P008,watch,100
+2024-10-23,computers,10000,548,P002,computers,10000
+2024-10-23,wireless headphone,100,549,P001,wireless headphone,100
+2024-10-23,speakers,1000,550,P003,speakers,1000
+2024-10-23,charger,500,551,P005,charger,500
+2024-10-23,computers,10000,552,P002,computers,10000
+2024-10-23,computers,10000,553,P002,computers,10000
+2024-10-23,Android phone,1000,554,P006,Android phone,1000
+2024-10-23,iphone,9000,555,P007,iphone,9000
+2024-10-23,wireless headphone,100,556,P001,wireless headphone,100
+2024-10-23,tab,1000,557,P004,tab,1000
+2024-10-23,game_box,1000,558,P010,game_box,1000
+2024-10-23,Android phone,1000,559,P006,Android phone,1000
+2024-10-23,charger,500,560,P005,charger,500
+2024-10-23,computers,10000,561,P002,computers,10000
+2024-10-23,tab,1000,562,P004,tab,1000
+2024-10-23,iphone,9000,563,P007,iphone,9000
+2024-10-23,Android phone,1000,564,P006,Android phone,1000
+2024-10-23,wireless headphone,100,565,P001,wireless headphone,100
+2024-10-23,game_box,1000,566,P010,game_box,1000
+2024-10-23,wireless headphone,100,567,P001,wireless headphone,100
+2024-10-23,computers,10000,568,P002,computers,10000
+2024-10-23,watch,100,569,P008,watch,100
+2024-10-23,Android phone,1000,570,P006,Android phone,1000
+2024-10-23,wireless headphone,100,571,P001,wireless headphone,100
+2024-10-23,Android phone,1000,572,P006,Android phone,1000
+2024-10-23,tab,1000,573,P004,tab,1000
+2024-10-23,game_box,1000,574,P010,game_box,1000
+2024-10-23,game_box,1000,575,P010,game_box,1000
+2024-10-23,watch,100,576,P008,watch,100
+2024-10-23,watch,100,577,P008,watch,100
+2024-10-23,iphone,9000,578,P007,iphone,9000
+2024-10-23,tab,1000,579,P004,tab,1000
+2024-10-23,iphone,9000,580,P007,iphone,9000
+2024-10-23,wireless headphone,100,581,P001,wireless headphone,100
+2024-10-23,Android phone,1000,582,P006,Android phone,1000
+2024-10-23,tab,1000,583,P004,tab,1000
+2024-10-23,game_box,1000,584,P010,game_box,1000
+2024-10-23,game_box,1000,585,P010,game_box,1000
+2024-10-23,iphone,9000,586,P007,iphone,9000
+2024-10-23,wireless headphone,100,587,P001,wireless headphone,100
+2024-10-23,iphone,9000,588,P007,iphone,9000
+2024-10-23,tab,1000,589,P004,tab,1000
+2024-10-23,Android phone,1000,590,P006,Android phone,1000
+2024-10-23,Android phone,1000,591,P006,Android phone,1000
+2024-10-23,speakers,1000,592,P003,speakers,1000
+2024-10-23,Android phone,1000,593,P006,Android phone,1000
+2024-10-23,wireless headphone,100,594,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,595,P001,wireless headphone,100
+2024-10-23,Android phone,1000,596,P006,Android phone,1000
+2024-10-23,game_box,1000,597,P010,game_box,1000
+2024-10-23,Android phone,1000,598,P006,Android phone,1000
+2024-10-23,watch,100,599,P008,watch,100
+2024-10-23,watch,100,600,P008,watch,100
+2024-10-23,Android phone,1000,601,P006,Android phone,1000
+2024-10-23,charger,500,602,P005,charger,500
+2024-10-23,computers,10000,603,P002,computers,10000
+2024-10-23,tab,1000,604,P004,tab,1000
+2024-10-23,clock,100,605,P009,clock,100
+2024-10-23,game_box,1000,606,P010,game_box,1000
+2024-10-23,game_box,1000,607,P010,game_box,1000
+2024-10-23,computers,10000,608,P002,computers,10000
+2024-10-23,wireless headphone,100,609,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,610,P001,wireless headphone,100
+2024-10-23,Android phone,1000,611,P006,Android phone,1000
+2024-10-23,wireless headphone,100,612,P001,wireless headphone,100
+2024-10-23,iphone,9000,613,P007,iphone,9000
+2024-10-23,speakers,1000,614,P003,speakers,1000
+2024-10-23,wireless headphone,100,615,P001,wireless headphone,100
+2024-10-23,game_box,1000,616,P010,game_box,1000
+2024-10-23,game_box,1000,617,P010,game_box,1000
+2024-10-23,wireless headphone,100,618,P001,wireless headphone,100
+2024-10-23,tab,1000,619,P004,tab,1000
+2024-10-23,Android phone,1000,620,P006,Android phone,1000
+2024-10-23,watch,100,621,P008,watch,100
+2024-10-23,wireless headphone,100,622,P001,wireless headphone,100
+2024-10-23,game_box,1000,623,P010,game_box,1000
+2024-10-23,clock,100,624,P009,clock,100
+2024-10-23,tab,1000,625,P004,tab,1000
+2024-10-23,speakers,1000,626,P003,speakers,1000
+2024-10-23,computers,10000,627,P002,computers,10000
+2024-10-23,speakers,1000,628,P003,speakers,1000
+2024-10-23,game_box,1000,629,P010,game_box,1000
+2024-10-23,tab,1000,630,P004,tab,1000
+2024-10-23,computers,10000,631,P002,computers,10000
+2024-10-23,speakers,1000,632,P003,speakers,1000
+2024-10-23,clock,100,633,P009,clock,100
+2024-10-23,game_box,1000,634,P010,game_box,1000
+2024-10-23,Android phone,1000,635,P006,Android phone,1000
+2024-10-23,watch,100,636,P008,watch,100
+2024-10-23,speakers,1000,637,P003,speakers,1000
+2024-10-23,computers,10000,638,P002,computers,10000
+2024-10-23,tab,1000,639,P004,tab,1000
+2024-10-23,computers,10000,640,P002,computers,10000
+2024-10-23,wireless headphone,100,641,P001,wireless headphone,100
+2024-10-23,iphone,9000,642,P007,iphone,9000
+2024-10-23,Android phone,1000,643,P006,Android phone,1000
+2024-10-23,computers,10000,644,P002,computers,10000
+2024-10-23,watch,100,645,P008,watch,100
+2024-10-23,watch,100,646,P008,watch,100
+2024-10-23,watch,100,647,P008,watch,100
+2024-10-23,watch,100,648,P008,watch,100
+2024-10-23,watch,100,649,P008,watch,100
+2024-10-23,computers,10000,650,P002,computers,10000
+2024-10-23,game_box,1000,651,P010,game_box,1000
+2024-10-23,tab,1000,652,P004,tab,1000
+2024-10-23,computers,10000,653,P002,computers,10000
+2024-10-23,game_box,1000,654,P010,game_box,1000
+2024-10-23,Android phone,1000,655,P006,Android phone,1000
+2024-10-23,wireless headphone,100,656,P001,wireless headphone,100
+2024-10-23,game_box,1000,657,P010,game_box,1000
+2024-10-23,clock,100,658,P009,clock,100
+2024-10-23,wireless headphone,100,659,P001,wireless headphone,100
+2024-10-23,game_box,1000,660,P010,game_box,1000
+2024-10-23,tab,1000,661,P004,tab,1000
+2024-10-23,Android phone,1000,662,P006,Android phone,1000
+2024-10-23,tab,1000,663,P004,tab,1000
+2024-10-23,tab,1000,664,P004,tab,1000
+2024-10-23,wireless headphone,100,665,P001,wireless headphone,100
+2024-10-23,tab,1000,666,P004,tab,1000
+2024-10-23,tab,1000,667,P004,tab,1000
+2024-10-23,tab,1000,668,P004,tab,1000
+2024-10-23,tab,1000,669,P004,tab,1000
+2024-10-23,charger,500,670,P005,charger,500
+2024-10-23,speakers,1000,671,P003,speakers,1000
+2024-10-23,iphone,9000,672,P007,iphone,9000
+2024-10-23,wireless headphone,100,673,P001,wireless headphone,100
+2024-10-23,tab,1000,674,P004,tab,1000
+2024-10-23,Android phone,1000,675,P006,Android phone,1000
+2024-10-23,game_box,1000,676,P010,game_box,1000
+2024-10-23,speakers,1000,677,P003,speakers,1000
+2024-10-23,wireless headphone,100,678,P001,wireless headphone,100
+2024-10-23,watch,100,679,P008,watch,100
+2024-10-23,watch,100,680,P008,watch,100
+2024-10-23,wireless headphone,100,681,P001,wireless headphone,100
+2024-10-23,watch,100,682,P008,watch,100
+2024-10-23,iphone,9000,683,P007,iphone,9000
+2024-10-23,computers,10000,684,P002,computers,10000
+2024-10-23,game_box,1000,685,P010,game_box,1000
+2024-10-23,wireless headphone,100,686,P001,wireless headphone,100
+2024-10-23,Android phone,1000,687,P006,Android phone,1000
+2024-10-23,game_box,1000,688,P010,game_box,1000
+2024-10-23,charger,500,689,P005,charger,500
+2024-10-23,tab,1000,690,P004,tab,1000
+2024-10-23,computers,10000,691,P002,computers,10000
+2024-10-23,tab,1000,692,P004,tab,1000
+2024-10-23,computers,10000,693,P002,computers,10000
+2024-10-23,computers,10000,694,P002,computers,10000
+2024-10-23,game_box,1000,695,P010,game_box,1000
+2024-10-23,iphone,9000,696,P007,iphone,9000
+2024-10-23,watch,100,697,P008,watch,100
+2024-10-23,wireless headphone,100,698,P001,wireless headphone,100
+2024-10-23,clock,100,699,P009,clock,100
+2024-10-23,wireless headphone,100,700,P001,wireless headphone,100
+2024-10-23,watch,100,701,P008,watch,100
+2024-10-23,Android phone,1000,702,P006,Android phone,1000
+2024-10-23,tab,1000,703,P004,tab,1000
+2024-10-23,wireless headphone,100,704,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,705,P001,wireless headphone,100
+2024-10-23,Android phone,1000,706,P006,Android phone,1000
+2024-10-23,wireless headphone,100,707,P001,wireless headphone,100
+2024-10-23,Android phone,1000,708,P006,Android phone,1000
+2024-10-23,tab,1000,709,P004,tab,1000
+2024-10-23,clock,100,710,P009,clock,100
+2024-10-23,tab,1000,711,P004,tab,1000
+2024-10-23,wireless headphone,100,712,P001,wireless headphone,100
+2024-10-23,game_box,1000,713,P010,game_box,1000
+2024-10-23,Android phone,1000,714,P006,Android phone,1000
+2024-10-23,game_box,1000,715,P010,game_box,1000
+2024-10-23,watch,100,716,P008,watch,100
+2024-10-23,tab,1000,717,P004,tab,1000
+2024-10-23,wireless headphone,100,718,P001,wireless headphone,100
+2024-10-23,iphone,9000,719,P007,iphone,9000
+2024-10-23,wireless headphone,100,720,P001,wireless headphone,100
+2024-10-23,tab,1000,721,P004,tab,1000
+2024-10-23,clock,100,722,P009,clock,100
+2024-10-23,tab,1000,723,P004,tab,1000
+2024-10-23,wireless headphone,100,724,P001,wireless headphone,100
+2024-10-23,watch,100,725,P008,watch,100
+2024-10-23,wireless headphone,100,726,P001,wireless headphone,100
+2024-10-23,watch,100,727,P008,watch,100
+2024-10-23,tab,1000,728,P004,tab,1000
+2024-10-23,game_box,1000,729,P010,game_box,1000
+2024-10-23,iphone,9000,730,P007,iphone,9000
+2024-10-23,charger,500,731,P005,charger,500
+2024-10-23,game_box,1000,732,P010,game_box,1000
+2024-10-23,Android phone,1000,733,P006,Android phone,1000
+2024-10-23,computers,10000,734,P002,computers,10000
+2024-10-23,wireless headphone,100,735,P001,wireless headphone,100
+2024-10-23,tab,1000,736,P004,tab,1000
+2024-10-23,Android phone,1000,737,P006,Android phone,1000
+2024-10-23,computers,10000,738,P002,computers,10000
+2024-10-23,game_box,1000,739,P010,game_box,1000
+2024-10-23,watch,100,740,P008,watch,100
+2024-10-23,Android phone,1000,741,P006,Android phone,1000
+2024-10-23,game_box,1000,742,P010,game_box,1000
+2024-10-23,watch,100,743,P008,watch,100
+2024-10-23,Android phone,1000,744,P006,Android phone,1000
+2024-10-23,tab,1000,745,P004,tab,1000
+2024-10-23,tab,1000,746,P004,tab,1000
+2024-10-23,Android phone,1000,747,P006,Android phone,1000
+2024-10-23,wireless headphone,100,748,P001,wireless headphone,100
+2024-10-23,game_box,1000,749,P010,game_box,1000
+2024-10-23,charger,500,750,P005,charger,500
+2024-10-23,computers,10000,751,P002,computers,10000
+2024-10-23,tab,1000,752,P004,tab,1000
+2024-10-23,tab,1000,753,P004,tab,1000
+2024-10-23,wireless headphone,100,754,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,755,P001,wireless headphone,100
+2024-10-23,speakers,1000,756,P003,speakers,1000
+2024-10-23,game_box,1000,757,P010,game_box,1000
+2024-10-23,wireless headphone,100,758,P001,wireless headphone,100
+2024-10-23,speakers,1000,759,P003,speakers,1000
+2024-10-23,charger,500,760,P005,charger,500
+2024-10-23,Android phone,1000,761,P006,Android phone,1000
+2024-10-23,watch,100,762,P008,watch,100
+2024-10-23,watch,100,763,P008,watch,100
+2024-10-23,computers,10000,764,P002,computers,10000
+2024-10-23,computers,10000,765,P002,computers,10000
+2024-10-23,tab,1000,766,P004,tab,1000
+2024-10-23,watch,100,767,P008,watch,100
+2024-10-23,tab,1000,768,P004,tab,1000
+2024-10-23,speakers,1000,769,P003,speakers,1000
+2024-10-23,computers,10000,770,P002,computers,10000
+2024-10-23,charger,500,771,P005,charger,500
+2024-10-23,wireless headphone,100,772,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,773,P001,wireless headphone,100
+2024-10-23,watch,100,774,P008,watch,100
+2024-10-23,Android phone,1000,775,P006,Android phone,1000
+2024-10-23,watch,100,776,P008,watch,100
+2024-10-23,computers,10000,777,P002,computers,10000
+2024-10-23,charger,500,778,P005,charger,500
+2024-10-23,watch,100,779,P008,watch,100
+2024-10-23,computers,10000,780,P002,computers,10000
+2024-10-23,charger,500,781,P005,charger,500
+2024-10-23,iphone,9000,782,P007,iphone,9000
+2024-10-23,computers,10000,783,P002,computers,10000
+2024-10-23,game_box,1000,784,P010,game_box,1000
+2024-10-23,watch,100,785,P008,watch,100
+2024-10-23,watch,100,786,P008,watch,100
+2024-10-23,wireless headphone,100,787,P001,wireless headphone,100
+2024-10-23,Android phone,1000,788,P006,Android phone,1000
+2024-10-23,Android phone,1000,789,P006,Android phone,1000
+2024-10-23,game_box,1000,790,P010,game_box,1000
+2024-10-23,wireless headphone,100,791,P001,wireless headphone,100
+2024-10-23,speakers,1000,792,P003,speakers,1000
+2024-10-23,clock,100,793,P009,clock,100
+2024-10-23,clock,100,794,P009,clock,100
+2024-10-23,clock,100,795,P009,clock,100
+2024-10-23,wireless headphone,100,796,P001,wireless headphone,100
+2024-10-23,tab,1000,797,P004,tab,1000
+2024-10-23,watch,100,798,P008,watch,100
+2024-10-23,game_box,1000,799,P010,game_box,1000
+2024-10-23,clock,100,800,P009,clock,100
+2024-10-23,watch,100,801,P008,watch,100
+2024-10-23,game_box,1000,802,P010,game_box,1000
+2024-10-23,tab,1000,803,P004,tab,1000
+2024-10-23,game_box,1000,804,P010,game_box,1000
+2024-10-23,computers,10000,805,P002,computers,10000
+2024-10-23,charger,500,806,P005,charger,500
+2024-10-23,watch,100,807,P008,watch,100
+2024-10-23,clock,100,808,P009,clock,100
+2024-10-23,tab,1000,809,P004,tab,1000
+2024-10-23,watch,100,810,P008,watch,100
+2024-10-23,tab,1000,811,P004,tab,1000
+2024-10-23,Android phone,1000,812,P006,Android phone,1000
+2024-10-23,computers,10000,813,P002,computers,10000
+2024-10-23,watch,100,814,P008,watch,100
+2024-10-23,wireless headphone,100,815,P001,wireless headphone,100
+2024-10-23,watch,100,816,P008,watch,100
+2024-10-23,iphone,9000,817,P007,iphone,9000
+2024-10-23,tab,1000,818,P004,tab,1000
+2024-10-23,watch,100,819,P008,watch,100
+2024-10-23,wireless headphone,100,820,P001,wireless headphone,100
+2024-10-23,Android phone,1000,821,P006,Android phone,1000
+2024-10-23,speakers,1000,822,P003,speakers,1000
+2024-10-23,tab,1000,823,P004,tab,1000
+2024-10-23,Android phone,1000,824,P006,Android phone,1000
+2024-10-23,tab,1000,825,P004,tab,1000
+2024-10-23,watch,100,826,P008,watch,100
+2024-10-23,Android phone,1000,827,P006,Android phone,1000
+2024-10-23,Android phone,1000,828,P006,Android phone,1000
+2024-10-23,game_box,1000,829,P010,game_box,1000
+2024-10-23,tab,1000,830,P004,tab,1000
+2024-10-23,Android phone,1000,831,P006,Android phone,1000
+2024-10-23,Android phone,1000,832,P006,Android phone,1000
+2024-10-23,Android phone,1000,833,P006,Android phone,1000
+2024-10-23,computers,10000,834,P002,computers,10000
+2024-10-23,clock,100,835,P009,clock,100
+2024-10-23,wireless headphone,100,836,P001,wireless headphone,100
+2024-10-23,game_box,1000,837,P010,game_box,1000
+2024-10-23,charger,500,838,P005,charger,500
+2024-10-23,game_box,1000,839,P010,game_box,1000
+2024-10-23,wireless headphone,100,840,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,841,P001,wireless headphone,100
+2024-10-23,iphone,9000,842,P007,iphone,9000
+2024-10-23,wireless headphone,100,843,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,844,P001,wireless headphone,100
+2024-10-23,Android phone,1000,845,P006,Android phone,1000
+2024-10-23,game_box,1000,846,P010,game_box,1000
+2024-10-23,Android phone,1000,847,P006,Android phone,1000
+2024-10-23,Android phone,1000,848,P006,Android phone,1000
+2024-10-23,wireless headphone,100,849,P001,wireless headphone,100
+2024-10-23,computers,10000,850,P002,computers,10000
+2024-10-23,Android phone,1000,851,P006,Android phone,1000
+2024-10-23,Android phone,1000,852,P006,Android phone,1000
+2024-10-23,computers,10000,853,P002,computers,10000
+2024-10-23,game_box,1000,854,P010,game_box,1000
+2024-10-23,watch,100,855,P008,watch,100
+2024-10-23,wireless headphone,100,856,P001,wireless headphone,100
+2024-10-23,computers,10000,857,P002,computers,10000
+2024-10-23,game_box,1000,858,P010,game_box,1000
+2024-10-23,tab,1000,859,P004,tab,1000
+2024-10-23,charger,500,860,P005,charger,500
+2024-10-23,wireless headphone,100,861,P001,wireless headphone,100
+2024-10-23,tab,1000,862,P004,tab,1000
+2024-10-23,watch,100,863,P008,watch,100
+2024-10-23,clock,100,864,P009,clock,100
+2024-10-23,clock,100,865,P009,clock,100
+2024-10-23,tab,1000,866,P004,tab,1000
+2024-10-23,computers,10000,867,P002,computers,10000
+2024-10-23,iphone,9000,868,P007,iphone,9000
+2024-10-23,watch,100,869,P008,watch,100
+2024-10-23,game_box,1000,870,P010,game_box,1000
+2024-10-23,Android phone,1000,871,P006,Android phone,1000
+2024-10-23,game_box,1000,872,P010,game_box,1000
+2024-10-23,wireless headphone,100,873,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,874,P001,wireless headphone,100
+2024-10-23,computers,10000,875,P002,computers,10000
+2024-10-23,iphone,9000,876,P007,iphone,9000
+2024-10-23,computers,10000,877,P002,computers,10000
+2024-10-23,Android phone,1000,878,P006,Android phone,1000
+2024-10-23,Android phone,1000,879,P006,Android phone,1000
+2024-10-23,charger,500,880,P005,charger,500
+2024-10-23,tab,1000,881,P004,tab,1000
+2024-10-23,game_box,1000,882,P010,game_box,1000
+2024-10-23,iphone,9000,883,P007,iphone,9000
+2024-10-23,charger,500,884,P005,charger,500
+2024-10-23,computers,10000,885,P002,computers,10000
+2024-10-23,game_box,1000,886,P010,game_box,1000
+2024-10-23,tab,1000,887,P004,tab,1000
+2024-10-23,tab,1000,888,P004,tab,1000
+2024-10-23,wireless headphone,100,889,P001,wireless headphone,100
+2024-10-23,charger,500,890,P005,charger,500
+2024-10-23,tab,1000,891,P004,tab,1000
+2024-10-23,tab,1000,892,P004,tab,1000
+2024-10-23,game_box,1000,893,P010,game_box,1000
+2024-10-23,tab,1000,894,P004,tab,1000
+2024-10-23,clock,100,895,P009,clock,100
+2024-10-23,charger,500,896,P005,charger,500
+2024-10-23,clock,100,897,P009,clock,100
+2024-10-23,iphone,9000,898,P007,iphone,9000
+2024-10-23,charger,500,899,P005,charger,500
+2024-10-23,tab,1000,900,P004,tab,1000
+2024-10-23,speakers,1000,901,P003,speakers,1000
+2024-10-23,wireless headphone,100,902,P001,wireless headphone,100
+2024-10-23,speakers,1000,903,P003,speakers,1000
+2024-10-23,wireless headphone,100,904,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,905,P001,wireless headphone,100
+2024-10-23,tab,1000,906,P004,tab,1000
+2024-10-23,Android phone,1000,907,P006,Android phone,1000
+2024-10-23,speakers,1000,908,P003,speakers,1000
+2024-10-23,computers,10000,909,P002,computers,10000
+2024-10-23,wireless headphone,100,910,P001,wireless headphone,100
+2024-10-23,speakers,1000,911,P003,speakers,1000
+2024-10-23,watch,100,912,P008,watch,100
+2024-10-23,game_box,1000,913,P010,game_box,1000
+2024-10-23,tab,1000,914,P004,tab,1000
+2024-10-23,watch,100,915,P008,watch,100
+2024-10-23,computers,10000,916,P002,computers,10000
+2024-10-23,Android phone,1000,917,P006,Android phone,1000
+2024-10-23,Android phone,1000,918,P006,Android phone,1000
+2024-10-23,computers,10000,919,P002,computers,10000
+2024-10-23,game_box,1000,920,P010,game_box,1000
+2024-10-23,watch,100,921,P008,watch,100
+2024-10-23,clock,100,922,P009,clock,100
+2024-10-23,watch,100,923,P008,watch,100
+2024-10-23,charger,500,924,P005,charger,500
+2024-10-23,tab,1000,925,P004,tab,1000
+2024-10-23,wireless headphone,100,926,P001,wireless headphone,100
+2024-10-23,computers,10000,927,P002,computers,10000
+2024-10-23,computers,10000,928,P002,computers,10000
+2024-10-23,tab,1000,929,P004,tab,1000
+2024-10-23,tab,1000,930,P004,tab,1000
+2024-10-23,computers,10000,931,P002,computers,10000
+2024-10-23,Android phone,1000,932,P006,Android phone,1000
+2024-10-23,tab,1000,933,P004,tab,1000
+2024-10-23,game_box,1000,934,P010,game_box,1000
+2024-10-23,Android phone,1000,935,P006,Android phone,1000
+2024-10-23,speakers,1000,936,P003,speakers,1000
+2024-10-23,wireless headphone,100,937,P001,wireless headphone,100
+2024-10-23,game_box,1000,938,P010,game_box,1000
+2024-10-23,clock,100,939,P009,clock,100
+2024-10-23,wireless headphone,100,940,P001,wireless headphone,100
+2024-10-23,game_box,1000,941,P010,game_box,1000
+2024-10-23,wireless headphone,100,942,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,943,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,944,P001,wireless headphone,100
+2024-10-23,tab,1000,945,P004,tab,1000
+2024-10-23,tab,1000,946,P004,tab,1000
+2024-10-23,game_box,1000,947,P010,game_box,1000
+2024-10-23,Android phone,1000,948,P006,Android phone,1000
+2024-10-23,tab,1000,949,P004,tab,1000
+2024-10-23,watch,100,950,P008,watch,100
+2024-10-23,speakers,1000,951,P003,speakers,1000
+2024-10-23,tab,1000,952,P004,tab,1000
+2024-10-23,watch,100,953,P008,watch,100
+2024-10-23,charger,500,954,P005,charger,500
+2024-10-23,Android phone,1000,955,P006,Android phone,1000
+2024-10-23,wireless headphone,100,956,P001,wireless headphone,100
+2024-10-23,Android phone,1000,957,P006,Android phone,1000
+2024-10-23,tab,1000,958,P004,tab,1000
+2024-10-23,computers,10000,959,P002,computers,10000
+2024-10-23,Android phone,1000,960,P006,Android phone,1000
+2024-10-23,speakers,1000,961,P003,speakers,1000
+2024-10-23,speakers,1000,962,P003,speakers,1000
+2024-10-23,charger,500,963,P005,charger,500
+2024-10-23,clock,100,964,P009,clock,100
+2024-10-23,iphone,9000,965,P007,iphone,9000
+2024-10-23,tab,1000,966,P004,tab,1000
+2024-10-23,clock,100,967,P009,clock,100
+2024-10-23,speakers,1000,968,P003,speakers,1000
+2024-10-23,watch,100,969,P008,watch,100
+2024-10-23,tab,1000,970,P004,tab,1000
+2024-10-23,tab,1000,971,P004,tab,1000
+2024-10-23,wireless headphone,100,972,P001,wireless headphone,100
+2024-10-23,speakers,1000,973,P003,speakers,1000
+2024-10-23,wireless headphone,100,974,P001,wireless headphone,100
+2024-10-23,computers,10000,975,P002,computers,10000
+2024-10-23,Android phone,1000,976,P006,Android phone,1000
+2024-10-23,tab,1000,977,P004,tab,1000
+2024-10-23,speakers,1000,978,P003,speakers,1000
+2024-10-23,game_box,1000,979,P010,game_box,1000
+2024-10-23,game_box,1000,980,P010,game_box,1000
+2024-10-23,tab,1000,981,P004,tab,1000
+2024-10-23,watch,100,982,P008,watch,100
+2024-10-23,computers,10000,983,P002,computers,10000
+2024-10-23,speakers,1000,984,P003,speakers,1000
+2024-10-23,game_box,1000,985,P010,game_box,1000
+2024-10-23,computers,10000,986,P002,computers,10000
+2024-10-23,computers,10000,987,P002,computers,10000
+2024-10-23,wireless headphone,100,988,P001,wireless headphone,100
+2024-10-23,wireless headphone,100,989,P001,wireless headphone,100
+2024-10-23,Android phone,1000,990,P006,Android phone,1000
+2024-10-23,computers,10000,991,P002,computers,10000
+2024-10-23,tab,1000,992,P004,tab,1000
+2024-10-23,Android phone,1000,993,P006,Android phone,1000
+2024-10-23,wireless headphone,100,994,P001,wireless headphone,100
+2024-10-23,charger,500,995,P005,charger,500
+2024-10-23,Android phone,1000,996,P006,Android phone,1000
+2024-10-23,Android phone,1000,997,P006,Android phone,1000
+2024-10-23,tab,1000,998,P004,tab,1000
+2024-10-23,wireless headphone,100,999,P001,wireless headphone,100
+2024-10-23,Android phone,1000,1000,P006,Android phone,1000
+2024-10-23,wireless headphone,100,1001,P001,wireless headphone,100
